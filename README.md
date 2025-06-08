@@ -4,10 +4,10 @@ git add .
 git commit -m "Estructura inicial del proyecto"
 git push origin main
 git add .
-git commit -m "inicio1"
+git commit -m "inicio3"
 git push origin main
 
-
+hola buenas
 git pull origin main
 
 
