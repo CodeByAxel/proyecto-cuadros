@@ -1,7 +1,7 @@
 # proyecto-cuadros
 
 git add .
-git commit -m "cambios a chochito"
+git commit -m "cambios a pene"
 git push origin main
 git add .
 git commit -m "inicio3"
